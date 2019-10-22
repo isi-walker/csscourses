@@ -1,0 +1,19 @@
+img{
+  float: left;
+}
+
+.introduction{
+  font-style: italic;
+  font-weight: bold;
+}
+
+.gorilla-card{
+  background-color: #efefef;
+  padding: 10px;
+  border-radius: 5px;
+
+}
+.read-more{
+  position: absolute;
+
+}
